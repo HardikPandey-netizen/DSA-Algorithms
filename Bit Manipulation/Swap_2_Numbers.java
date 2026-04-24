@@ -7,5 +7,6 @@ public class Swap_2_Numbers {
         b = a^b;
         a = a^b;
         System.out.println(a + " " + b);
+
     }
 }
